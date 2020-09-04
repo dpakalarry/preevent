@@ -20,6 +20,6 @@
     "mongodb": "~2.0.33",
     "morgan": "~1.7.0",
     "serve-favicon": "~2.3.0",
-    "handlebars":"~4.0.2"
+    "handlebars":"~4.7.6"
   }
 }
